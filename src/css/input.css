@@ -1,0 +1,41 @@
+.label {
+  margin-top:0px;
+  display:block;
+  font-weight: 700;
+  color: #46494d;
+  margin-bottom: .3125rem;
+  margin-top: .625rem;
+  cursor: default;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .70rem;
+}
+
+.dropdownLabel {
+  margin-bottom: 0 !important;
+}
+
+.input {
+  padding: 5px, 10px;
+  width: 100%;
+  border: 1px solid #d4d4d2;
+  background: #fff;
+  color: #5d5d5d;
+  font-size: 14px;
+  margin: 00 0 0 .5em;
+  line-height: 1.5em;
+  cursor: text;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+}
+
+.optional {
+  font-weight: 500;
+}
+
+.commentbox {
+  height: 70px;
+}
+
